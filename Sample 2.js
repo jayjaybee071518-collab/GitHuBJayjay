@@ -11,4 +11,4 @@ function getAverage(arr) {
   return average;
 }
 
-console.log("Average:", getAverage(numbers));
+console.log("Average:", getAverage(roman numerals));
